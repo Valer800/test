@@ -1,0 +1,10 @@
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\bin\Debug\Rollerball.exe.config
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\bin\Debug\Rollerball.exe
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\bin\Debug\Rollerball.pdb
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.csprojAssemblyReference.cache
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.Form1.resources
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.Properties.Resources.resources
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.csproj.GenerateResource.cache
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.exe
+C:\Users\Andrei Paul\source\repos\Rollerball\Rollerball\obj\Debug\Rollerball.pdb
